@@ -605,12 +605,12 @@ Configs: {
 		}
 
 		Shiny: {
-			Label: 悪臭
+			Label: 発光
 			Tooltip: ""
 		}
 
 		Stinky: {
-			Label: 発光
+			Label: 悪臭
 			Tooltip: ""
 		}
 
