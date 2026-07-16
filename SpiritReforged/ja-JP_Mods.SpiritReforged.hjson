@@ -1333,7 +1333,7 @@ Items: {
 		DisplayName: 染料の木箱
 		Tooltip:
 			'''
-			"<right>で開く"
+			<right>で開く
 			「香りは…意外な程に爽やかだ！」
 			'''
 	}
@@ -2081,8 +2081,8 @@ Items: {
 		DisplayName: 惑乱粉
 		Tooltip:
 			'''
-			"漂う魔法の粉を広げる
-			攻撃した敵を混乱させる"
+			漂う魔法の粉を広げる
+			攻撃した敵を混乱させる
 			'''
 	}
 
@@ -2117,8 +2117,8 @@ Items: {
 		DisplayName: 透明なルアー
 		Tooltip:
 			'''
-			"水中に設置可能
-			近くの水域に魚の群れを引き寄せる"
+			水中に設置可能
+			近くの水域に魚の群れを引き寄せる
 			'''
 	}
 
@@ -3476,22 +3476,22 @@ NPCs: {
 	}
 
 	DiverZombie: {
-		DisplayName: Zombie
+		DisplayName: "{$NPCName.Zombie}"
 		Entry: 酸素タンクに本物の酸素が必要だなんて、誰が言ったんだ？
 	}
 
 	KelpZombie: {
-		DisplayName: Zombie
+		DisplayName: "{$NPCName.Zombie}"
 		Entry: 魚は俺を恐れ、女は俺を恐れ、男は俺を恐れ、子供は俺を恐れる、なぜなら俺はアンデッドだから。
 	}
 
 	SailorZombie: {
-		DisplayName: Zombie
+		DisplayName: "{$NPCName.Zombie}"
 		Entry: 今はこんなだけど、生前は良質な豪華クルーザーを運営してたんだ、いつかチェックしてみて。
 	}
 
 	TridentZombie: {
-		DisplayName: Zombie
+		DisplayName: "{$NPCName.Zombie}"
 		Entry: そのトライデントは生きてるときに役に立たなかったようだ。まだかなり尖ってるから、気をつけよう。
 	}
 
@@ -3511,7 +3511,7 @@ NPCs: {
 	}
 
 	SavannaSandSlime: {
-		DisplayName: Sand Slime
+		DisplayName: "{$NPCName.SandSlime}"
 		Entry: ちょっと葉っぱっぽく、砂がなんだか少ない。だが危ないことには変わらない。
 	}
 
@@ -3526,12 +3526,12 @@ NPCs: {
 	}
 
 	SafariZombie: {
-		DisplayName: Zombie
+		DisplayName: "{$NPCName.Zombie}"
 		Entry: 楽観的に言うなら、すでにゾンビなら蛇だって何の害も及ぼさないよね。
 	}
 
 	TumbleZombie: {
-		DisplayName: Zombie
+		DisplayName: "{$NPCName.Zombie}"
 		Entry: ゾンビの姿の裏側...血や枝、胆汁の奥深くに、タンブラーとゾンビが意外な形で友情を育む感動的な物語が隠されている。
 	}
 
@@ -3765,12 +3765,12 @@ NPCs: {
 	}
 
 	HideZombieBig: {
-		DisplayName: Zombie
+		DisplayName: "{$NPCName.Zombie}"
 		Entry: ハイエナ達は、毎夜蔓延るゾンビからいつも逃げ隠れなければならない。さもなければ彼らの皮は乗っ取られてしまうだろう。
 	}
 
 	HideZombieSmall: {
-		DisplayName: Zombie
+		DisplayName: "{$NPCName.Zombie}"
 		Entry: 彼らの服装は、最新のアンデッドファッションで大流行らしい。
 	}
 
@@ -3951,17 +3951,17 @@ NPCs: {
 	}
 
 	CactusZombie: {
-		DisplayName: Zombie
+		DisplayName: "{$NPCName.Zombie}"
 		Entry: サボテンで死ぬなんて最悪の部類だろう。サボテンで蘇るのも、きっと同じくらいひどい。
 	}
 
 	SunburntZombie: {
-		DisplayName: Zombie
+		DisplayName: "{$NPCName.Zombie}"
 		Entry: 太陽を嫌悪するようになり、腐りかけた皮膚を守るため夜間に行動する。
 	}
 
 	VeiledZombie: {
-		DisplayName: Zombie
+		DisplayName: "{$NPCName.Zombie}"
 		Entry: 暑さを防ぐ装いだけでは砂漠では生き延びられない。食料と水の確保も重要である。
 	}
 
