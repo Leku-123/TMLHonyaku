@@ -52,7 +52,6 @@ ShopItem: {
 	ShopItemError: アイテムはこの環境に属していない
 }
 
-// Mods.PointShop.Keybin.SuperVault.DisplayName: Mods.PointShop.Keybinds.Mods.PointShop.Keybin.SuperVault.DisplayName
 Keybinds.PointShopUIKeybind.DisplayName: Points Shop UI切り替え
 ShowGroupLinks: 無効
 
