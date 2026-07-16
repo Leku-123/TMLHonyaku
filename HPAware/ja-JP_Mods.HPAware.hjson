@@ -211,7 +211,7 @@ Configs: {
 
 		MuffleTrigger: {
 			Label: 開始HP割合
-			Tooltip: HPが指定パーセント以下になった際、BG<調整が始まります
+			Tooltip: HPが指定パーセント以下になった際、BGM調整が始まります
 		}
 
 		MuffleIntensity: {
@@ -381,4 +381,4 @@ Configs: {
 	}
 }
 
-Mods.HPAware.AddToBLText: 右クリックでデバフ非表示
+AddToBLText: 右クリックでデバフ非表示
